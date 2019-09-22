@@ -8,6 +8,6 @@ I believe that I have a grouth mindset depending on:
 - getting up as fast as I can after falling
 
 Here come some reminders that I use almost all the time 
-1. **Big Dream ... Long Story (made it myself)**
+1. **Big Dream ... Long Story** (made it myself)
 2. **Go Ahead And Be Shine** 
 3. **No Pain No Gain**
