@@ -1,9 +1,9 @@
 # My name is Ibrahim Ajarmeh 
 ## this the change that I made on this file good luck everyone
 
-[Welcome](welcome)
-[Who am I](who-am-i)
-[bye-bye](bye-bye)
+- [Welcome](welcome)
+- [Who am I](who-am-i)
+- [bye-bye](bye-bye)
 
 I am a freshly graduated _mechanical engineer_ specialized in _HVAC_ systems, **TOP** of my class if you ask me
 
