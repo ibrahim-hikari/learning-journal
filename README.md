@@ -17,3 +17,4 @@ Here come some reminders that I use almost all the time
 2. **Go Ahead And Be Shine** 
 3. **No Pain No Gain**
 
+[CSS reading assignment](css)
