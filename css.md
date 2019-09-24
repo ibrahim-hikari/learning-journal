@@ -14,7 +14,9 @@ inside the style tag you can decorate whatever you want
 1. external css: outside file not in the HTML file you can start with the selector right away 
 
 #### Example
+
 1. Inside css
+
 ```
 <head> ... </head>
 <style>
@@ -22,8 +24,15 @@ p {
     color: green;
 } 
 </style>
+
 ```
-1. outsie css 
+
+1. outsie css
+
+```
+
 p {
     font-family: timesnewroman;
 }
+
+```
