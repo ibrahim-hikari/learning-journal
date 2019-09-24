@@ -15,16 +15,14 @@ inside the style tag you can decorate whatever you want
 
 #### Example
 1. Inside css
-.
-.
-.
+```
 <head> ... </head>
 <style>
 p {
     color: green;
 } 
 </style>
-
+```
 1. outsie css 
 p {
     font-family: timesnewroman;
