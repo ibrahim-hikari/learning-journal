@@ -20,3 +20,5 @@ Here come some reminders that I use almost all the time
 [CSS reading assignment](css)
 
 [js reading assignment](js)
+
+[read 07 assignment](read7.md)
