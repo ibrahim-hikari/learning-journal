@@ -29,3 +29,4 @@ Here come some reminders that I use almost all the time
 
 [Structure web pages with HTML](HTML.md)
 
+[How computers work](read08.md)
