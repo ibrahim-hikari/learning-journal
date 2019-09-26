@@ -22,3 +22,10 @@ Here come some reminders that I use almost all the time
 [js reading assignment](js)
 
 [read 07 assignment](read7.md)
+
+[the coder's computer](Read02.md)
+
+[Revisions and the Cloud](REad03.md)
+
+[Structure web pages with HTML](HTML.md)
+
