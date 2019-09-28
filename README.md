@@ -19,8 +19,9 @@ Here come some reminders that I use almost all the time
 
 
 |Table of content|
-|assignment num | links |
 |---------------|:------:|
+|assignment num | links |
+|---------------|------|
 |05             | [CSS reading assignment](css)|
 |---------------|-----------------------------|
 |06             | [js reading assignment](js)|
