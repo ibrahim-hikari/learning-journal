@@ -18,7 +18,7 @@ Here come some reminders that I use almost all the time
 3. **No Pain No Gain**
 
 
-| -> Table of content <- |
+| ->Table of content<- |
 |---------------|:------:|
 |assignment num | links |
 |---------------|------|
