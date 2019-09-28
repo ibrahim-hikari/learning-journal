@@ -19,18 +19,18 @@ Here come some reminders that I use almost all the time
 
 
 
-|assignment num | limks |
+|assignment num | links |
 |---------------|:------:|
-|               |: [CSS reading assignment](css)|
-|---------------|:-----------------------------|
-|               |: [js reading assignment](js)|
-|---------------|:---------------------------- |
-|               |: [read 07 assignment](read7.md)|
-|---------------|:-----------------------------|
-|               |: [the coder's computer](Read02.md)|
-|---------------|:-----------------------------|
-|               |: [Revisions and the Cloud](REad03.md)|
-|---------------|:-----------------------------|
-|               |: [Structure web pages with HTML](HTML.md)|
-|---------------|:-----------------------------|
-|               |: [How computers work](read08.md)|
+|05             | [CSS reading assignment](css)|
+|---------------|-----------------------------|
+|06             | [js reading assignment](js)|
+|---------------|---------------------------- |
+|07             | [read 07 assignment](read7.md)|
+|---------------|-----------------------------|
+|02             | [the coder's computer](Read02.md)|
+|---------------|-----------------------------|
+|03             | [Revisions and the Cloud](REad03.md)|
+|---------------|-----------------------------|
+|04             | [Structure web pages with HTML](HTML.md)|
+|---------------|-----------------------------|
+|08             | [How computers work](read08.md)|
